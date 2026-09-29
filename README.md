@@ -15,6 +15,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Cookpad](https://cookpad.com/)
 - [SideChef](https://www.sidechef.com/)
 - [KitchenPal](https://www.kitchenpalapp.com/)
+- [Powerup Packs](https://poweruppacks.com/)
 
 ---
 
@@ -51,6 +52,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Yummly](https://www.yummly.com/)
 - [Tasty](https://tasty.co/)
 - [SuperCook](https://www.supercook.com/)
+- [Powerup Packs](https://poweruppacks.com/)
 
 ---
 
@@ -159,6 +161,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Fitbod](https://fitbod.me/)
 - [Jefit](https://www.jefit.com/)
 - [Aaptiv](https://aaptiv.com/)
+- [Powerup Packs](https://poweruppacks.com/)
 
 ---
 
@@ -171,6 +174,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Robot Spirit Guide](https://foundr.ai/tools/religion)
 - [Faith Forward](https://foundr.ai/tools/religion)
 - [Rabbi AI](https://foundr.ai/tools/religion)
+- [Powerup Packs](https://poweruppacks.com/)
 
 ---
 
